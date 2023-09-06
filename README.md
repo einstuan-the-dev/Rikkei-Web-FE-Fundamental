@@ -1,0 +1,1 @@
+# Rikkei-Web-FE-Fundamental
